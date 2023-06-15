@@ -1,3 +1,7 @@
+#we simply record an approximately 3.3 second video at 30fps for each hand gesture and capture each frame 
+#(out of 100 total frames in one video) as an image, we are automatically supplied with a 
+#hundred still images for each letter in the American Sign Language.
+
 import os
 import cv2
 
